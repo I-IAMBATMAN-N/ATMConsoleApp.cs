@@ -1,0 +1,5 @@
+C:\Users\Jakub\OneDrive\Dokumenty\GitHub\ATM-Console-Application.exe\ATMConsoleApp.exe
+C:\Users\Jakub\OneDrive\Dokumenty\GitHub\ATM-Console-Application.exe\ATMConsoleApp.dll
+C:\Users\Jakub\OneDrive\Dokumenty\GitHub\ATM-Console-Application.exe\ATMConsoleApp.deps.json
+C:\Users\Jakub\OneDrive\Dokumenty\GitHub\ATM-Console-Application.exe\ATMConsoleApp.runtimeconfig.json
+C:\Users\Jakub\OneDrive\Dokumenty\GitHub\ATM-Console-Application.exe\ATMConsoleApp.pdb

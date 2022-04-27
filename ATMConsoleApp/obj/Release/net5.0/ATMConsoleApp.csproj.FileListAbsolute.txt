@@ -1,0 +1,16 @@
+C:\Users\Jakub\OneDrive\Dokumenty\GitHub\ATMConsoleApp.cs\ATMConsoleApp\bin\Release\net5.0\ATMConsoleApp.exe
+C:\Users\Jakub\OneDrive\Dokumenty\GitHub\ATMConsoleApp.cs\ATMConsoleApp\bin\Release\net5.0\ATMConsoleApp.deps.json
+C:\Users\Jakub\OneDrive\Dokumenty\GitHub\ATMConsoleApp.cs\ATMConsoleApp\bin\Release\net5.0\ATMConsoleApp.runtimeconfig.json
+C:\Users\Jakub\OneDrive\Dokumenty\GitHub\ATMConsoleApp.cs\ATMConsoleApp\bin\Release\net5.0\ATMConsoleApp.runtimeconfig.dev.json
+C:\Users\Jakub\OneDrive\Dokumenty\GitHub\ATMConsoleApp.cs\ATMConsoleApp\bin\Release\net5.0\ATMConsoleApp.dll
+C:\Users\Jakub\OneDrive\Dokumenty\GitHub\ATMConsoleApp.cs\ATMConsoleApp\bin\Release\net5.0\ATMConsoleApp.pdb
+C:\Users\Jakub\OneDrive\Dokumenty\GitHub\ATMConsoleApp.cs\ATMConsoleApp\obj\Release\net5.0\ATMConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Jakub\OneDrive\Dokumenty\GitHub\ATMConsoleApp.cs\ATMConsoleApp\obj\Release\net5.0\ATMConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\OneDrive\Dokumenty\GitHub\ATMConsoleApp.cs\ATMConsoleApp\obj\Release\net5.0\ATMConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Jakub\OneDrive\Dokumenty\GitHub\ATMConsoleApp.cs\ATMConsoleApp\obj\Release\net5.0\ATMConsoleApp.AssemblyInfo.cs
+C:\Users\Jakub\OneDrive\Dokumenty\GitHub\ATMConsoleApp.cs\ATMConsoleApp\obj\Release\net5.0\ATMConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\OneDrive\Dokumenty\GitHub\ATMConsoleApp.cs\ATMConsoleApp\obj\Release\net5.0\ATMConsoleApp.dll
+C:\Users\Jakub\OneDrive\Dokumenty\GitHub\ATMConsoleApp.cs\ATMConsoleApp\obj\Release\net5.0\refint\ATMConsoleApp.dll
+C:\Users\Jakub\OneDrive\Dokumenty\GitHub\ATMConsoleApp.cs\ATMConsoleApp\obj\Release\net5.0\ATMConsoleApp.pdb
+C:\Users\Jakub\OneDrive\Dokumenty\GitHub\ATMConsoleApp.cs\ATMConsoleApp\obj\Release\net5.0\ATMConsoleApp.genruntimeconfig.cache
+C:\Users\Jakub\OneDrive\Dokumenty\GitHub\ATMConsoleApp.cs\ATMConsoleApp\obj\Release\net5.0\ref\ATMConsoleApp.dll
