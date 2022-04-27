@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7fa5ac1e-cfe4-4b0e-b696-fdcacb059b5b": {
+      "ProjectGuid": "7fa5ac1e-cfe4-4b0e-b696-fdcacb059b5b",
+      "DisplayName": "ATMConsoleApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
